@@ -1,3 +1,3 @@
 # Aditya-Arjun
-This is my first Repository.
+This is my Repository.
 Author-Aditya Gupta
